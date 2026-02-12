@@ -1,0 +1,12 @@
+#Hide private 
+*
+*/
+!.gitignore
+!bp/
+!bp/predict_old.py
+!bp/predict.py
+!bp/models/
+!bp/models/vnet1d.py
+!bp/models/transformer.py
+!bp/stats.py
+!requirements.txt
