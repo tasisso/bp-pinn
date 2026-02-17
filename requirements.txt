@@ -1,0 +1,19 @@
+torch==2.1.0          # or 2.2.x / 2.3.x
+torchvision==0.16.0
+torchaudio==2.1.0
+pytorch-lightning==2.2.5   
+torchmetrics==1.2.0        # or latest 1.x
+numpy==1.23.5
+pandas==2.0.3
+pyarrow==17.0.0
+polars==1.8.2
+scipy==1.10.1
+wandb==0.15.2
+tqdm==4.67.1
+PyYAML==6.0.2
+notebook==7.3.1
+jupyterlab==4.3.8
+ipykernel==6.27.0
+ipywidgets==8.1.0
+omegaconf==2.3.0
+matplotlib==3.7.1
